@@ -1,0 +1,14 @@
+{
+  "resourceName": "bluewavedata",
+  "policyUUID": "7bda7c66",
+  "bucketName": "bluewavecrust43cd9675546f4e85bc6818b2ffeabd35",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

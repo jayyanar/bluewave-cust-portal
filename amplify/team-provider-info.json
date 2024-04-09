@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bluewavecrust-dev-59843-authRole",
+      "UnauthRoleArn": "arn:aws:iam::098493093308:role/amplify-bluewavecrust-dev-59843-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::098493093308:role/amplify-bluewavecrust-dev-59843-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bluewavecrust-dev-59843-deployment",
+      "UnauthRoleName": "amplify-bluewavecrust-dev-59843-unauthRole",
+      "StackName": "amplify-bluewavecrust-dev-59843",
+      "StackId": "arn:aws:cloudformation:us-east-1:098493093308:stack/amplify-bluewavecrust-dev-59843/5160bd80-f638-11ee-90fe-128f37ba932d",
+      "AmplifyAppId": "d36jcvkdumjtbd"
+    },
+    "categories": {
+      "auth": {
+        "bluewavecruste66acc22": {}
+      },
+      "storage": {
+        "bluewavedata": {}
+      }
+    }
+  }
+}
