@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bluewave Cust",
+  "name": "Website to upload files to to S3",
   "icons": [
     {
       "src": "favicon.ico",
