@@ -40,12 +40,12 @@ function App({ signOut, user }) {
           Sign out
         </button>
         <div className="file-input-container">
+          <div className="file-input-icon">Choose File</div>
           <input
             type="file"
             className="file-input"
             onChange={(e) => setFileData(e.target.files[0])}
           />
-          <div className="file-input-icon">Choose File</div>
         </div>
         <div>
           <button className="file-upload-btn" onClick={uploadFile}>
