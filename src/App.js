@@ -35,7 +35,7 @@ function App({ signOut, user }) {
     <div className="wave">
       <img src="src/Logo1.jpg" alt="Bluewave Holidays Logo" />
       <div className="App">
-        <h1>Welcome to Bluewave Cust</h1>
+        <h1>Welcome to Bluewave Customer Portal</h1>
         <hr />
         <button className="sign-out-btn" onClick={signOut}>
           Sign out
