@@ -33,7 +33,7 @@ function App({ signOut, user }) {
 
   return (
     <div className="wave">
-      <img src="Logo1.jpg" alt="Bluewave Holidays Logo" />
+      <img src="./Logo1.jpg" alt="Bluewave Holidays Logo" />
       <div className="App">
         <h1>Welcome to Bluewave Holidays Customer Portal</h1>
         <hr />
